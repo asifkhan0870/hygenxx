@@ -1,0 +1,10 @@
+.btn {
+  background: linear-gradient(180deg, #06286e 0%, #164ec0 100%);
+
+  width: Hug (128px) px;
+  height: Hug (48px) px;
+  padding: 13px 40px 13px 40px;
+  gap: 40px;
+  border-radius: 32px;
+  opacity: 0px;
+}

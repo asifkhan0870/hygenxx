@@ -1,0 +1,16 @@
+.input > p {
+  border: 1px solid black;
+  margin-left: 104px;
+  margin-top: 34px;
+  font-size: 22px;
+  padding: 12px 12px;
+  border-radius: 12px;
+  width: 845px;
+  /* height: 60px; */
+}
+.arrow {
+  margin-left: 780px;
+  margin-top: -31px;
+  /* right: 100px; */
+  /* background-color: red; */
+}
